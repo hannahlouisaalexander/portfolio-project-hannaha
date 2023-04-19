@@ -60,7 +60,7 @@ line-height: 2;
     padding: 160px 20px;
 }
 
-.content-container h1 {
+.content h1 {
 font-size: 64px;
 line-height: 80px;
 }
@@ -75,6 +75,20 @@ line-height: 80px;
     margin: 30px;
 }
 
+.content p {
+    font-size: 14px;
+
+
+}
+
+.content h3 {
+font-size: 24px ;
+font-family: var(--default-font-family);
+line-height: 1.5;
+margin: 20px 0 0; 
+color:  #272142;
+
+}
 .btn-branding {
     background: var(--branding-colour);
     color: white;
@@ -115,6 +129,7 @@ line-height: 80px;
 
     .hero p {
         font-size: 30px;
+        
     }
     
     .hero h2 {
