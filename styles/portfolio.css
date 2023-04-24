@@ -141,6 +141,11 @@ line-height: 2;
     padding: 60px 20px;
 }
 
+.contact-links a{
+    color: var(--branding-colour);
+    text-decoration: none;
+}
+
 .content h1 {
 font-size: 64px;
 line-height: 80px;
