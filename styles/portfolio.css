@@ -207,10 +207,21 @@ color:  #272142;
     .btn-branding-outline {
         margin-bottom: 100px;
     }
+
+    
+
     h1 {
         line-height: 1.5;
-        font-size: 70px;
+        font-size: 55px;
     }
+
+    .content-container .content h1 {
+        font-size: 40px;
+        line-height: 1.2
+    ;
+        }
+
+
     h2 {
         font-size: 44px;
     }
@@ -241,6 +252,11 @@ color:  #272142;
  nav a {
     font-size: 14px;
  }
+
+ footer p {
+    font-size: 12px;
+    margin: 0 20px;
+}
 
 
 }
