@@ -199,6 +199,11 @@ color:  #272142;
 
 
 @media(max-width:960px) {
+
+    .container {
+        overflow-y: scroll;
+overflow-x: hidden;
+    }
     .project-descriptions {
         padding: 0; 
         text-align: center;
